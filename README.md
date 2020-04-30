@@ -13,6 +13,8 @@ neither = number of CF users who judged the tweet to be neither offensive nor no
 
 class = class label for majority of CF users. 0 - hate speech 1 - offensive language 2 - neither
 
+In this project, I merged the "hate speech" label and "offensive language" label into one lable, then conducted a binary classification work.
+
 2.Text data preprocessing.
 
 Remove Noise(punctuation, HTML,……)
